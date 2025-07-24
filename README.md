@@ -1,4 +1,4 @@
-This is the login page validation of 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' using BBD Cucumber Framework
+This is the login page validation of 'https://opensource-demo.orangehrmlive.com/web/index.php/auth/login' using BDD Cucumber Framework
 First Testing: Using Valid Credentials(Admin/admin123)
 Second Testing: Using Invalid Credentials
 Third Testing: Make Username & Password field blank
